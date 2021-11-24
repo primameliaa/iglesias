@@ -1,0 +1,46 @@
+h1 {
+	color: #0B1F5C; 
+	text-align: center; letter-spacing: 15px;
+	font-size: 10000; 
+}
+
+h2 {
+	background-color: #728747f4;
+	color: white;
+}
+
+body {
+	background-color: #B0B6BC;
+	font-size: x-large;
+}
+
+footer {
+	clear: both;
+}
+
+p {
+	font-family: sans-serif;
+}
+
+
+img.imageniglesias1{
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+img.imageniglesias2{
+	width: 350px; height: 250px;
+	display: block;
+	margin: auto;
+}
+
+
+img.imageniglesias3{
+	width:350px; height: 300px;
+	float: right;
+}
+
+
+
+
